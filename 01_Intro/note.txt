@@ -1,0 +1,47 @@
+web development 
+software development
+Math
+system scripting
+Algo
+AI 
+ML
+
+
+class Employee {
+  public void getEmployeeInfo() {
+
+  }
+}
+
+indent 
+
+yaml
+
+
+variables
+operator
+statement
+string format
+loop
+string function
+regex
+
+list
+tuple
+set
+dictionary
+
+function
+
+exception handling
+
+file handling 
+
+class
+
+MultiThreading
+
+DateAndTime
+
+API 
+
